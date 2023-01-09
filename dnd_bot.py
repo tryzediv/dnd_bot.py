@@ -4,7 +4,7 @@ import random
 from time import sleep
 
 
-bot = telebot.TeleBot('5883583512:AAGS5mivEXo2WT4rTCVuuha1uO1aj9cwsL8')
+bot = telebot.TeleBot('TOKEN')
 
 # Уровни сложности броска
 diff_lvl = ['легкая', 'средняя', 'тяжелая']
